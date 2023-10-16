@@ -3,8 +3,8 @@ import imghdr
 from email.message import EmailMessage
 
 PASSWORD = "vlreoccbsrgcsire"
-SENDER = "kostas.com2@gmail.com"
-RECEIVER = "diamantopoulos.kostas@hotmail.com"
+SENDER = "example@gmail.com"
+RECEIVER = "example@hotmail.com"
 
 
 def send_email(image_path):
